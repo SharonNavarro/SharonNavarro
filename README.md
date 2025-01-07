@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working on proyects that allow me to learn new skills!
 
-- 🌱 I’m currently learning libraries, frameworks and updating in agile methodology.
-
 - 📫 How to reach me: contactsharonnavarro@gmail.com / https://www.linkedin.com/in/sharonnavarrom/
 
 <!--
